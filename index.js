@@ -1,6 +1,8 @@
 // noinspection JSCheckFunctionSignatures,JSUnresolvedFunction
 
+const protobuf = require('protobufjs')
 const AdmZip = require('adm-zip')
+const crypto = require('crypto')
 const path = require('path')
 const fs = require('fs')
 
@@ -21,8 +23,14 @@ async function run() {
             const metaFile = zip.getEntry('pack.meta')
             const gitUrl = parseGithubUrl(gitRemoteOriginUrl.sync())
             gitUrl.branch = gitBranch.sync()
+
+            const fileBuffer = fs.readFileSync(path.join(packPath, pack))
+            const hashSum = crypto.createHash('sha256')
+            hashSum.update(fileBuffer)
+
             const meta = {
-                url: `https://github.com/${gitUrl.repo}/raw/${gitUrl.branch}/${packPath}/${pack}`,
+                url: `${packPath}/${pack}`,
+                hash: hashSum.digest('hex'),
                 author: 'Rboard Script',
                 tags: []
             }
@@ -56,6 +64,23 @@ async function run() {
             console.log(`${meta.name} by ${meta.author} added.`)
         }
         fs.writeFileSync('list.json', JSON.stringify(list, null, 2))
+        await new Promise((res, rej) => protobuf.load('proto/list.proto', (err, root) => {
+            if (err) return rej(err)
+
+            const ObjectList = root.lookupType('rboard.ObjectList')
+
+            const errMsg = ObjectList.verify({ objects: list })
+            if (errMsg) return rej(errMsg)
+
+            const message = ObjectList.fromObject({ objects: list })
+
+            const buffer = ObjectList.encode(message).finish()
+
+            fs.writeFile('proto/list.pb', buffer, err => {
+                if (err) return rej(err)
+                res()
+            })
+        }))
     }
 }
 
