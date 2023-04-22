@@ -1,12 +1,16 @@
 // noinspection JSCheckFunctionSignatures,JSUnresolvedFunction
+
 const AdmZip = require('adm-zip')
 const path = require('path')
 const fs = require('fs')
+
 const gitRemoteOriginUrl = require('remote-origin-url')
 const parseGithubUrl = require('parse-github-url')
 const gitBranch = require('git-branch')
 const gitLog = require('gitlog').default
+
 const packPath = process.argv[2]
+
 async function run() {
     if (path == null) console.log("Please provide a path.")
     else {
@@ -54,3 +58,5 @@ async function run() {
         fs.writeFileSync('list.json', JSON.stringify(list, null, 2))
     }
 }
+
+run().then(() => console.log('Done.'))
