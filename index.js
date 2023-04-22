@@ -1,18 +1,12 @@
 // noinspection JSCheckFunctionSignatures,JSUnresolvedFunction
-
-const protobuf = require('protobufjs')
 const AdmZip = require('adm-zip')
-const crypto = require('crypto')
 const path = require('path')
 const fs = require('fs')
-
 const gitRemoteOriginUrl = require('remote-origin-url')
 const parseGithubUrl = require('parse-github-url')
 const gitBranch = require('git-branch')
 const gitLog = require('gitlog').default
-
 const packPath = process.argv[2]
-
 async function run() {
     if (path == null) console.log("Please provide a path.")
     else {
@@ -23,14 +17,8 @@ async function run() {
             const metaFile = zip.getEntry('pack.meta')
             const gitUrl = parseGithubUrl(gitRemoteOriginUrl.sync())
             gitUrl.branch = gitBranch.sync()
-
-            const fileBuffer = fs.readFileSync(path.join(packPath, pack))
-            const hashSum = crypto.createHash('sha256')
-            hashSum.update(fileBuffer)
-
             const meta = {
-                url: `${packPath}/${pack}`,
-                hash: hashSum.digest('hex'),
+                url: `https://github.com/${gitUrl.repo}/raw/${gitUrl.branch}/${packPath}/${pack}`,
                 author: 'Rboard Script',
                 tags: []
             }
@@ -64,24 +52,5 @@ async function run() {
             console.log(`${meta.name} by ${meta.author} added.`)
         }
         fs.writeFileSync('list.json', JSON.stringify(list, null, 2))
-        await new Promise((res, rej) => protobuf.load('proto/list.proto', (err, root) => {
-            if (err) return rej(err)
-
-            const ObjectList = root.lookupType('rboard.ObjectList')
-
-            const errMsg = ObjectList.verify({ objects: list })
-            if (errMsg) return rej(errMsg)
-
-            const message = ObjectList.fromObject({ objects: list })
-
-            const buffer = ObjectList.encode(message).finish()
-
-            fs.writeFile('proto/list.pb', buffer, err => {
-                if (err) return rej(err)
-                res()
-            })
-        }))
     }
 }
-
-run().then(() => console.log('Done.'))
