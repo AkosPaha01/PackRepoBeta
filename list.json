@@ -1,0 +1,1197 @@
+[
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Android_pack.zip",
+    "author": "Leese",
+    "tags": [],
+    "themes": [
+      "Android_Dark_Blue",
+      "Android_Dark_Cinnamon",
+      "Android_Dark_Green",
+      "Android_Dark_Ocean",
+      "Android_Dark_Orchid",
+      "Android_Dark_Purple",
+      "Android_Dark_Space",
+      "Android_Light_Blue",
+      "Android_Light_Cinnamon",
+      "Android_Light_Green",
+      "Android_Light_Ocean",
+      "Android_Light_Orchid",
+      "Android_Light_Purple",
+      "Android_Light_Space"
+    ],
+    "size": 968540,
+    "date": 1632327241000,
+    "name": "Android Pack"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Animal Black.zip",
+    "author": "Leese",
+    "tags": [],
+    "themes": [
+      "Foxy_Black",
+      "Lizard_Black",
+      "Red_Panda_Black",
+      "Snake_Black",
+      "Weasel_Black",
+      "Bear_Black",
+      "Bee_Black",
+      "Blue_Whale_Black",
+      "Butterfly_Black",
+      "Flamingo_Black"
+    ],
+    "size": 592894,
+    "date": 1632331737000,
+    "name": "Animal Black"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Animal Gray.zip",
+    "author": "Leese",
+    "tags": [],
+    "themes": [
+      "Bear_Gray",
+      "Bee_Gray",
+      "Blue_Whale_Gray",
+      "Butterfly_Gray",
+      "Flamingo_Gray",
+      "Foxy_Gray",
+      "Lizard_Gray",
+      "Red_Panda_Gray",
+      "Snake_Gray",
+      "Weasel_Gray"
+    ],
+    "size": 508180,
+    "date": 1632331737000,
+    "name": "Animal Gray"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Animal White.zip",
+    "author": "Leese",
+    "tags": [],
+    "themes": [
+      "Blue_Whale_White",
+      "Butterfly_White",
+      "Flamingo_White",
+      "Foxy_White",
+      "Lizard_White",
+      "Red_Panda_White",
+      "Snake_White",
+      "Weasel_White",
+      "Bear_White",
+      "Bee_White"
+    ],
+    "size": 644347,
+    "date": 1632331737000,
+    "name": "Animal White"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Arctic_Themes.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "White",
+      "Light",
+      "Border",
+      "Fixed"
+    ],
+    "themes": [
+      "Arctic_BitterSweet",
+      "Arctic_BitterSweet_V2",
+      "Arctic_Black",
+      "Arctic_Black_V2",
+      "Arctic_Blue",
+      "Arctic_Blue_V2",
+      "Arctic_GoldenTainoi",
+      "Arctic_GoldenTainoi_V2",
+      "Arctic_HotPink",
+      "Arctic_HotPink_V2",
+      "Arctic_LightPurple",
+      "Arctic_LightPurple_V2"
+    ],
+    "size": 682919,
+    "date": 1649490172000,
+    "name": "Arctic Themes"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Athemes_pack.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Fixed"
+    ],
+    "themes": [
+      "_ h h",
+      "_ h",
+      "Black_Pearl_Your_Pink",
+      "Blackcurrant_Ruby",
+      "Chocolate_Silver",
+      "Firefly_Link_Water"
+    ],
+    "size": 217229,
+    "date": 1649490172000,
+    "name": "Athemes Pack"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Black_Themes.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Black",
+      "Border",
+      "Fixed"
+    ],
+    "themes": [
+      "Black_realpink",
+      "Black_realpink_no_border",
+      "Black_realpink_rounded",
+      "Black_RKBD_rounded",
+      "Blackblue",
+      "Blackblue_no_border",
+      "Blackgreen",
+      "Blackgreen_no_border",
+      "Blackorange",
+      "Blackorange_no_border",
+      "Blackpink",
+      "Blackpink_no_border",
+      "Blackpurple",
+      "Blackpurple_no_border",
+      "Blackred",
+      "Blackred_no_border",
+      "Blackyellow",
+      "Blackyellow_no_border"
+    ],
+    "size": 1002653,
+    "date": 1649490172000,
+    "name": "Black themes"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Black_Themes_V2.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Black",
+      "Border",
+      "Fixed"
+    ],
+    "themes": [
+      "Full_Black_purple",
+      "Full_Black_red",
+      "Full_Black_blue",
+      "Full_Black_green",
+      "Full_Black_orange",
+      "Full_Black_pink"
+    ],
+    "size": 475671,
+    "date": 1649490172000,
+    "name": "Dark Black Themes"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Blue_Themes.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Fixed"
+    ],
+    "themes": [
+      "Blue_teal",
+      "Blue_red",
+      "Blue_orange",
+      "Blue_green",
+      "Blue_blue",
+      "blue_akash"
+    ],
+    "size": 659452,
+    "date": 1649490172000,
+    "name": "Blue themes"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Bluish_Themes.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Fixed"
+    ],
+    "themes": [
+      "Bluish_VistaBlue",
+      "Bluish_Feijoa",
+      "Bluish_PetiteOrchid",
+      "Bluish_PoloBlue",
+      "Bluish_RoseGold"
+    ],
+    "size": 315050,
+    "date": 1649490172000,
+    "name": "Bluish Themes"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Borderless_Material.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Borderless",
+      "Material"
+    ],
+    "themes": [
+      "White_Pink",
+      "White_Red",
+      "White_Yellow",
+      "Black_Blue",
+      "Black_Claret",
+      "Black_Green",
+      "Black_Orange",
+      "Black_Yellow",
+      "White_Claret",
+      "White_Light_blue"
+    ],
+    "size": 679403,
+    "date": 1632331737000,
+    "name": "Borderless Material Pack"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Colored_keys.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Colorful"
+    ],
+    "themes": [
+      "Blue_swift_button",
+      "Claret_swift_button",
+      "Green_swift_button",
+      "Red_swift_button",
+      "Yellow_swift_button"
+    ],
+    "size": 285448,
+    "date": 1632331737000,
+    "name": "Colored keys"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Colorful.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Colorful",
+      "Fixed"
+    ],
+    "themes": [
+      "Colorfuls_red",
+      "Colorfuls_yellow",
+      "Colorfuls_blue",
+      "Colorfuls_green",
+      "Colorfuls_light_blue",
+      "Colorfuls_orange",
+      "Colorfuls_pink",
+      "Colorfuls_purple"
+    ],
+    "size": 947440,
+    "date": 1632331737000,
+    "name": "Colorful"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Colors_Dark.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Colorful",
+      "Dark"
+    ],
+    "themes": [
+      "Blue",
+      "Claret",
+      "Green",
+      "Light blue",
+      "Orange",
+      "Pink",
+      "Purple",
+      "Red",
+      "Yellow"
+    ],
+    "size": 611961,
+    "date": 1632331737000,
+    "name": "Colors Dark"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Colors_Light.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Colorful",
+      "Light",
+      "Fixed"
+    ],
+    "themes": [
+      "Orange_Material",
+      "Pink_Material",
+      "Purple_Material",
+      "Red_Material",
+      "Teal_Material",
+      "Yellow_Material",
+      "Amber_Material",
+      "Blue_Grey_Material",
+      "Blue_Material",
+      "Brown_Material",
+      "Deep_Orange_Material",
+      "Green_Material",
+      "Grey_Material",
+      "Light_Blue_Material",
+      "Lime_Material"
+    ],
+    "size": 782651,
+    "date": 1649490172000,
+    "name": "Colors Light"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/DarkGrey.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Fixed",
+      "Dark"
+    ],
+    "themes": [
+      "DarkGrey_Red",
+      "DarkGrey_Purple",
+      "DarkGrey_Orange",
+      "DarkGrey_Green",
+      "DarkGrey_Blue"
+    ],
+    "size": 260144,
+    "date": 1632327241000,
+    "name": "Dark Grey Pack"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Desaturated_pack.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Border",
+      "Fixed"
+    ],
+    "themes": [
+      "Desaturated_fab_icon_green",
+      "Desaturated_fab_icon_orange",
+      "Desaturated_fab_icon_pink",
+      "Desaturated_fab_icon_purple",
+      "Desaturated_fab_icon_red",
+      "Desaturated_fab_icon_yellow",
+      "Desaturated_green",
+      "Desaturated_orange",
+      "Desaturated_pink",
+      "Desaturated_purple",
+      "Desaturated_red",
+      "Desaturated_yellow",
+      "Desaturated_blue",
+      "Desaturated_fab_icon_blue"
+    ],
+    "size": 2476868,
+    "date": 1633292650000,
+    "name": "Desaturated Pack"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Dracula_Theme_Pack.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Border",
+      "Dark",
+      "Fixed"
+    ],
+    "themes": [
+      "Dracula_Green",
+      "Dracula_Green_lively",
+      "Dracula_Green_lively_V2",
+      "Dracula_Orange",
+      "Dracula_Orange_lively",
+      "Dracula_Orange_lively_V2",
+      "Dracula_Pink",
+      "Dracula_Pink_lively",
+      "Dracula_Pink_lively_V2",
+      "Dracula_Purple",
+      "Dracula_Purple_lively",
+      "Dracula_Purple_lively_V2",
+      "Dracula_Red",
+      "Dracula_Red_lively",
+      "Dracula_Red_lively_V2"
+    ],
+    "size": 1738568,
+    "date": 1635113808000,
+    "name": "Dracula Pack"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Exclusive.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Fixed",
+      "Exclusive",
+      "Border",
+      "Dark",
+      "Unique"
+    ],
+    "themes": [
+      "PurpleBlack",
+      "RedBlack",
+      "SpaceBlack",
+      "StyleBlue",
+      "StyleGreen",
+      "StyleRed",
+      "WhiteBlack",
+      "YandexDark",
+      "YandexLight",
+      "YandexWhite",
+      "Youtube",
+      "Youtube_Dark",
+      "BlueBlack",
+      "BluishBlue",
+      "CinnamonBlack",
+      "Facebook",
+      "GreenBlack",
+      "GreyBlue",
+      "GreyRed",
+      "LightGreenBlack",
+      "NightBlue",
+      "NightGreen",
+      "NightOrange",
+      "NightRed",
+      "OceanBlack",
+      "OrangeBlack",
+      "OrangeBlue",
+      "OrchidBlack"
+    ],
+    "size": 3955138,
+    "date": 1649490172000,
+    "name": "Exclusive Pack"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Exclusive_2.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Fixed",
+      "Exclusive",
+      "Border",
+      "Dark",
+      "Unique"
+    ],
+    "themes": [
+      "Dark_Orange",
+      "Dark_Purple",
+      "DarkPurpleBlack",
+      "Grey_Pearl_Lime",
+      "Grey_Pearl_Orange",
+      "Grey_Pearl_Pink",
+      "Light_Coral",
+      "LightBlueBlack",
+      "NightPink",
+      "NightPurple",
+      "NightWhite",
+      "NightYellow",
+      "Old_lavender",
+      "OrangeDarkBlue",
+      "OrangeGreen",
+      "OrangeOrange",
+      "OrangePink",
+      "OrangePurple",
+      "OrangeRed",
+      "Radical_Red",
+      "Shade_Of_Brown",
+      "Taupe",
+      "YellowBlack",
+      "Bluish_Blue",
+      "Bluish_Pink",
+      "Coral",
+      "Dark_Blue",
+      "Dark_Green"
+    ],
+    "size": 1697251,
+    "date": 1637788931000,
+    "name": "Exclusive Pack 2"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Exclusive_3.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Unique",
+      "Border",
+      "Light",
+      "Dark",
+      "Exclusive"
+    ],
+    "themes": [
+      "Amaranth_Black",
+      "Black_Rock",
+      "Bossanova_Trendy_Pink",
+      "Cadet_Blue_Burgundy",
+      "Charm",
+      "Chetwode_Purple",
+      "CornflowerBlue_Black",
+      "Grey_Pearl_Blue",
+      "Grey_Pearl_Red",
+      "Grey_Pearl_Yellow",
+      "Ofox_Recovery_Theme",
+      "Orange_Black",
+      "Pale_Blue",
+      "Parsley_Green",
+      "Raven_Blue",
+      "Red_Black",
+      "RedWolf_Recovery_Theme",
+      "Rustic_Red",
+      "StyleYellow"
+    ],
+    "size": 1590733,
+    "date": 1632327241000,
+    "name": "Exclusive Pack 3"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Exclusive_4.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Unique",
+      "Border",
+      "Dark",
+      "Exclusive",
+      "Fixed"
+    ],
+    "themes": [
+      "Cyberpunk_2077_OnePlus_Blue",
+      "Cyberpunk_2077_OnePlus_Pink",
+      "Cyberpunk_2077_OnePlus_Purple",
+      "Cyberpunk_2077_OnePlus_Yellow",
+      "Cyberpunk_Red",
+      "Dark_Cyan",
+      "Jordy_Blue_White",
+      "Plum_White",
+      "Wild_Willow_White"
+    ],
+    "size": 466326,
+    "date": 1649490172000,
+    "name": "Exclusive Pack 4"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Exclusive_5.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Unique",
+      "Border",
+      "Light",
+      "Dark",
+      "Exclusive",
+      "Fixed"
+    ],
+    "themes": [
+      "Pale_Blue_Wewak",
+      "Samsung_Keyboard_2014",
+      "VS_Code_Dark",
+      "Android_12_Style_Dark",
+      "Android_12_Style_Light",
+      "Android_Studio_Logo",
+      "Black_Cardinal"
+    ],
+    "size": 451150,
+    "date": 1649490172000,
+    "name": "Exclusive Pack 5"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Feather_Pack.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Fixed",
+      "Borderless"
+    ],
+    "themes": [
+      "Feather_Black_Blue",
+      "Feather_Black_Green",
+      "Feather_Black_Orange",
+      "Feather_Black_Purple",
+      "Feather_Black_Red",
+      "Feather_Dark_Blue",
+      "Feather_Dark_Green",
+      "Feather_Dark_Orange",
+      "Feather_Dark_Purple",
+      "Feather_Dark_Red",
+      "Feather_White_Blue",
+      "Feather_White_Green",
+      "Feather_White_Orange",
+      "Feather_White_Purple",
+      "Feather_White_Red"
+    ],
+    "size": 1089480,
+    "date": 1632327241000,
+    "name": "Feather Pack"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Gem_Black.zip",
+    "author": "Leese",
+    "tags": [],
+    "themes": [
+      "Andalusite_Black",
+      "Beryll_Black",
+      "Chrysolite_Black",
+      "Citrine_Black",
+      "Malachite_Black",
+      "Ruby_Black",
+      "Sapphire_Black",
+      "Spinel_Black",
+      "Amber_Black",
+      "Amethyst_Black"
+    ],
+    "size": 1713553,
+    "date": 1632331737000,
+    "name": "Gem Black"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Generated_Colors.zip",
+    "author": "DerTyp7214",
+    "tags": [
+      "Unique",
+      "Border"
+    ],
+    "themes": [
+      "Color_Theme_Dark_61E991",
+      "Color_Theme_Light_61E991",
+      "Color_Theme_Pink_61E991"
+    ],
+    "size": 194826,
+    "date": 1632327241000,
+    "name": "Generated Colors Themes"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Grey_Themes.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Borderless",
+      "Fixed"
+    ],
+    "themes": [
+      "Grey_RKBD_colored_spacebar",
+      "Grey_RKBD",
+      "Grey_red_no_border",
+      "Grey_red_colored_spacebar",
+      "Grey_red",
+      "Grey_PAkos_no_border",
+      "Grey_PAkos_colored_spacebar",
+      "Grey_PAkos",
+      "Grey_light_green_no_border",
+      "Grey_light_green_colored_spacebar",
+      "Grey_light_green",
+      "Grey_light_blue_no_border",
+      "Grey_light_blue_colored_spacebar",
+      "Grey_light_blue",
+      "Grey_green_no_border",
+      "Grey_green_colored_spacebar",
+      "Grey_green",
+      "Grey_brown_no_border",
+      "Grey_brown_colored_spacebar",
+      "Grey_brown",
+      "Grey_blue_no_border",
+      "Grey_blue_colored_spacebar",
+      "Grey_blue",
+      "Grey_Beerus_no_border",
+      "Grey_Beerus_colored_spacebar",
+      "Grey_Beerus",
+      "Grey_RKBD_no_border"
+    ],
+    "size": 4175695,
+    "date": 1649490172000,
+    "name": "Grey Themes"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Halloween_Pack.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Border"
+    ],
+    "themes": [
+      "Halloween_Birthday",
+      "Halloween_Pumpkin",
+      "Trick_Or_Treat",
+      "Witch_Which_Witch"
+    ],
+    "size": 242170,
+    "date": 1632331737000,
+    "name": "Halloween Themes"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Logo_Pack.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Light",
+      "Dark",
+      "Rboard Logo"
+    ],
+    "themes": [
+      "Rboard_App_Debug_Dark_Theme",
+      "Rboard_App_Debug_Light_Theme",
+      "Rboard_App_Release_Dark_Theme",
+      "Rboard_App_Release_Light_Theme",
+      "Rboard_App_Release_Theme",
+      "Rboard_Channel_Dark_Theme",
+      "Rboard_Channel_Theme",
+      "Rboard_Group_Dark_Theme",
+      "Rboard_Group_Theme"
+    ],
+    "size": 1301901,
+    "date": 1632327241000,
+    "name": "Logo Pack"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/MPack_Dark.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Border",
+      "Dark",
+      "Fixed"
+    ],
+    "themes": [
+      "Dark_Pale_Pink",
+      "Dark_Patterns_Blue",
+      "Dark_Selago",
+      "Dark_Soft_Peach",
+      "Dark_Sulu_Green",
+      "Dark_Texas_Yellow",
+      "Dark_Aquamarine",
+      "Dark_Cosmos_Orange",
+      "Dark_Electric_Blue",
+      "Dark_Gainsboro",
+      "Dark_Hawkes_Blue",
+      "Dark_Onahau"
+    ],
+    "size": 846716,
+    "date": 1649395839000,
+    "name": "MPack Dark Themes"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/MPack_Light.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Border",
+      "Light",
+      "Fixed"
+    ],
+    "themes": [
+      "Light_Vivid_Yellow",
+      "Light_Sundown",
+      "Light_Sky_Blue",
+      "Light_Rajah_Orange",
+      "Light_Pale_Cornflower_Blue",
+      "Light_Medium_Turquoise",
+      "Light_Medium_Aquamarine",
+      "Light_Mauve_Purple",
+      "Light_Lavender",
+      "Light_Cupid_Pink",
+      "Light_Wild_Willow"
+    ],
+    "size": 786685,
+    "date": 1640248222000,
+    "name": "MPack Light Themes"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Material3_Pack.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Dark",
+      "Light",
+      "Fixed"
+    ],
+    "themes": [
+      "Material3_Dark",
+      "Material3_Light"
+    ],
+    "size": 139381,
+    "date": 1647295409000,
+    "name": "Material3 Themes"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Material_grey.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Material",
+      "Fixed"
+    ],
+    "themes": [
+      "Material_grey_light_blue",
+      "Material_grey_green",
+      "Material_grey_blue",
+      "Material_grey_yellow",
+      "Material_grey_red",
+      "Material_grey_purple",
+      "Material_grey_pink",
+      "Material_grey_orange"
+    ],
+    "size": 1048627,
+    "date": 1640257254000,
+    "name": "Grey Material Themes"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Material_ocean_lively.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Dark",
+      "Material",
+      "Fixed"
+    ],
+    "themes": [
+      "Material_ocean_lively_blue",
+      "Material_ocean_lively_dark_blue",
+      "Material_ocean_lively_green",
+      "Material_ocean_lively_light_blue",
+      "Material_ocean_lively_lime",
+      "Material_ocean_lively_orange",
+      "Material_ocean_lively_pink",
+      "Material_ocean_lively_purple",
+      "Material_ocean_lively_red",
+      "Material_ocean_lively_yellow"
+    ],
+    "size": 2309852,
+    "date": 1649490172000,
+    "name": "Material Oceans Lively"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Material_ocean_themes.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Dark",
+      "Material",
+      "Fixed"
+    ],
+    "themes": [
+      "Material_ocean_green",
+      "Material_ocean_grey",
+      "Material_ocean_light_blue",
+      "Material_ocean_light_green",
+      "Material_ocean_orange",
+      "Material_ocean_pink",
+      "Material_ocean_purple",
+      "Material_ocean_red",
+      "Material_ocean_yellow"
+    ],
+    "size": 817112,
+    "date": 1649490172000,
+    "name": "Material Oceans"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Minecraft_Pack.zip",
+    "author": "Akos Paha",
+    "tags": [],
+    "themes": [
+      "Minecraft_Phantom",
+      "Minecraft_Vex",
+      "Minecraft_Stray",
+      "Minecraft_Fox",
+      "Minecraft_Enderman",
+      "Minecraft_Drowned",
+      "Minecraft_Pig"
+    ],
+    "size": 899154,
+    "date": 1632331737000,
+    "name": "Minecraft Themes"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Mix.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Unique",
+      "Border",
+      "Fixed"
+    ],
+    "themes": [
+      "NoirBlueLight_without_round",
+      "NoirGreenly",
+      "NoirRed_without_round",
+      "OnePlus_Dark",
+      "Orange_Andro",
+      "SpotifyBLACK",
+      "theme3_custom",
+      "3d_blue",
+      "3d_dark_blue",
+      "3d_orange",
+      "3d_red",
+      "Aex_Modified",
+      "Black_oxygens_os_blue",
+      "Coal_spacebar_addeds",
+      "Colorsaccent",
+      "Google_black_blue",
+      "Google_black_red",
+      "Google_white_red",
+      "lmao",
+      "lmao_no_border",
+      "Noir_White_Red_without_round",
+      "NoirBlueLight"
+    ],
+    "size": 3061275,
+    "date": 1654714745000,
+    "name": "Mix Themes"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Mixed_Bordeless_Themes.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Borderless"
+    ],
+    "themes": [
+      "LimeWhite",
+      "OrangeWhite",
+      "PinkWhite",
+      "PurpleWhite",
+      "RedWhite",
+      "Black_realpink_borderless",
+      "Blackblue_borderless",
+      "Blackgreen_borderless",
+      "Blackorange_borderless",
+      "Blackpink_borderless",
+      "Blackpurple_borderless",
+      "Blackred_borderless",
+      "BlackWhite",
+      "Blackyellow_borderless",
+      "BlueWhite",
+      "DarkBlueWhite",
+      "GreenWhite",
+      "LightBlueWhite"
+    ],
+    "size": 2264577,
+    "date": 1632331737000,
+    "name": "Mixed Borderless Themes"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Nero_Themes.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Border",
+      "Fixed"
+    ],
+    "themes": [
+      "Nero_Double_Spanish_White",
+      "Nero_Just_Right",
+      "Nero_Light_Steel_Blue",
+      "Nero_Maverick",
+      "Nero_Mint_Juler",
+      "Nero_Moss_Green",
+      "Nero_Oyster_Pink",
+      "Nero_Perfume",
+      "Nero_Pixie_Green",
+      "Nero_Plum",
+      "Nero_Regent_St_Blue",
+      "Nero_Sribad",
+      "Nero_Vista_Blue",
+      "Nero_Wistful"
+    ],
+    "size": 871222,
+    "date": 1649490172000,
+    "name": "Nero Themes"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/NightLight_Themes.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Fixed",
+      "Border",
+      "Dark"
+    ],
+    "themes": [
+      "NightLight_Blue",
+      "NightLight_Cedar_Chest",
+      "NightLight_Claret",
+      "NightLight_Cyan",
+      "NightLight_Green",
+      "NightLight_LightBlue",
+      "NightLight_Lime",
+      "NightLight_Orange",
+      "NightLight_Pink",
+      "NightLight_Purple",
+      "NightLight_Red",
+      "NightLight_RoseGold",
+      "NightLight_Silver",
+      "NightLight_White",
+      "NightLight_Yellow"
+    ],
+    "size": 1110051,
+    "date": 1649490172000,
+    "name": "NightLight Themes"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Nord_Themes.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Dark",
+      "Fixed"
+    ],
+    "themes": [
+      "Nord_Grey",
+      "Nord_Orange",
+      "Nord_Purple",
+      "Nord_Red",
+      "Nord_Yellow",
+      "Nord_Green"
+    ],
+    "size": 300983,
+    "date": 1649490172000,
+    "name": "Nord themes"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Pacman_Themes.zip",
+    "author": "CrazyTrucker",
+    "tags": [
+      "Dark",
+      "Bordered",
+      "Colorful",
+      "Fixed"
+    ],
+    "themes": [
+      "Pacman3d_OnePlus_Blue_mod",
+      "Pacman3d_OnePlus_Yellow_mod",
+      "Pacman_OnePlus_Blue_mod",
+      "Pacman_OnePlus_Yellow_mod",
+      "PacmanDark_OnePlus_Blue_mod",
+      "PacmanDark_OnePlus_Yellow_mod",
+      "PacmanDark_Red-2_",
+      "PacmanDark_Red_"
+    ],
+    "size": 958366,
+    "date": 1642247917000,
+    "name": "Pacman Themes"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/PitchBlack.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Black",
+      "Border",
+      "Fixed"
+    ],
+    "themes": [
+      "PitchBlack_Blue",
+      "PitchBlack_Orange",
+      "PitchBlack_Pink",
+      "PitchBlack_Purple",
+      "PitchBlack_Red"
+    ],
+    "size": 295290,
+    "date": 1649490172000,
+    "name": "PitchBlack Pack"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Redesigns_Modified.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Redesign",
+      "Border",
+      "Fixed"
+    ],
+    "themes": [
+      "Redesign_black_dark_fab",
+      "Redesign_black_dark_noround",
+      "Redesign_black_fab_dark",
+      "Redesign_black_fab_icon",
+      "Redesign_black_noround",
+      "Redesign_dark_fab_icon",
+      "Redesign_dark_noround",
+      "Redesign_light_fab_icon",
+      "Redesign_light_noround"
+    ],
+    "size": 2465776,
+    "date": 1649490172000,
+    "name": "Redesign Modified Pack"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Redesigns_pack.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Redesign",
+      "Border",
+      "Fixed"
+    ],
+    "themes": [
+      "Redesign_black",
+      "Redesign_dark",
+      "Redesign_Force_Dark",
+      "Redesign_light",
+      "Redesign_real_dark"
+    ],
+    "size": 451134,
+    "date": 1649490172000,
+    "name": "Redesign Pack"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Rounded_Pack.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Border",
+      "Fixed"
+    ],
+    "themes": [
+      "A12_Concept_Theme",
+      "A12_Concept_Theme_Black",
+      "A12_Concept_Theme_Black_2",
+      "Purple_Mina",
+      "Red_Oxide",
+      "Soft_Blue",
+      "Sunsettia"
+    ],
+    "size": 816734,
+    "date": 1649490172000,
+    "name": "Rounded Pack"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Snowys.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Fixed"
+    ],
+    "themes": [
+      "Snowy_blue",
+      "Snowy_green",
+      "Snowy_purple",
+      "Snowy_red",
+      "Snowy_white",
+      "Snowy_yellow"
+    ],
+    "size": 272451,
+    "date": 1649490172000,
+    "name": "Snowy Themes"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Style_material.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Material",
+      "Fixed"
+    ],
+    "themes": [
+      "Style_material_orange",
+      "Style_material_light_blue",
+      "Style_material_green",
+      "Style_material_blue",
+      "Style_material_yellow",
+      "Style_material_red",
+      "Style_material_pink"
+    ],
+    "size": 460725,
+    "date": 1649490172000,
+    "name": "Style material"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/Swift_material.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Material",
+      "Fixed"
+    ],
+    "themes": [
+      "Swift_lime_material",
+      "Swift_light_blue_material",
+      "Swift_green_material",
+      "Swift_blue_material",
+      "Swift_yellow_material",
+      "Swift_red_material",
+      "Swift_purple_material",
+      "Swift_pink_material",
+      "Swift_orange_material"
+    ],
+    "size": 506052,
+    "date": 1649490172000,
+    "name": "Swift material"
+  },
+  {
+    "url": "https://github.com/AkosPaha/PackRepoBeta/raw/main/packs/White_themes.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "White",
+      "Border",
+      "Fixed"
+    ],
+    "themes": [
+      "White_blue",
+      "White_yellow",
+      "White_red",
+      "White_purple",
+      "White_pink",
+      "White_orange",
+      "White_green"
+    ],
+    "size": 739216,
+    "date": 1649490172000,
+    "name": "White Themes"
+  }
+]
