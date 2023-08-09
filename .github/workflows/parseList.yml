@@ -2,7 +2,7 @@ name: Parse List
 
 on:
   push:
-    branches: [ main, proto ]
+    branches: [ main ]
     paths:
       - '.github/**'
       - 'packs/**'
