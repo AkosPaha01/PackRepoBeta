@@ -1,3 +1,5 @@
 {
-  "name": "Akos Paha Repo"
+  "name": "Akos Paha Repo",
+  "proto": "proto/list.proto",
+  "protoList": "proto/list.pb"
 }
