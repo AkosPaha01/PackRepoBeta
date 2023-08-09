@@ -1,7 +1,6 @@
 [
   {
-    "url": "packs/Android_pack.zip",
-    "hash": "0d13a0600bf0f5d99d39431e3400b9407c360f4b70f61c99810e067c4cd368e2",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Android_pack.zip",
     "author": "Leese",
     "tags": [],
     "themes": [
@@ -25,8 +24,7 @@
     "name": "Android Pack"
   },
   {
-    "url": "packs/Animal Black.zip",
-    "hash": "ecabeaa990d7197bc0270a6e42ff0e7c414e41cabae4ee87d992d31f0b9feb38",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Animal Black.zip",
     "author": "Leese",
     "tags": [],
     "themes": [
@@ -46,8 +44,7 @@
     "name": "Animal Black"
   },
   {
-    "url": "packs/Animal Gray.zip",
-    "hash": "56a957ed2c175c889cf4b00bb72569610a6e7e3795e7ab80c57b6b22e81ae957",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Animal Gray.zip",
     "author": "Leese",
     "tags": [],
     "themes": [
@@ -67,8 +64,7 @@
     "name": "Animal Gray"
   },
   {
-    "url": "packs/Animal White.zip",
-    "hash": "d1278531d814427792942f6d3f6097128732aa271d6a1f3be1e30e39ca3e719c",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Animal White.zip",
     "author": "Leese",
     "tags": [],
     "themes": [
@@ -88,8 +84,7 @@
     "name": "Animal White"
   },
   {
-    "url": "packs/Arctic_Themes.zip",
-    "hash": "b23f040242f99897c7d1f93ffb61072477c91c8bc2e88b567fcd99e07aed930c",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Arctic_Themes.zip",
     "author": "Akos Paha",
     "tags": [
       "White",
@@ -116,8 +111,7 @@
     "name": "Arctic Themes"
   },
   {
-    "url": "packs/Athemes_pack.zip",
-    "hash": "746381c8efd93268adce30f1c1eb861d3b10223f1eb5a4d23799da06c15fec36",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Athemes_pack.zip",
     "author": "Akos Paha",
     "tags": [
       "Fixed"
@@ -135,8 +129,7 @@
     "name": "Athemes Pack"
   },
   {
-    "url": "packs/Black_Themes.zip",
-    "hash": "39bdd7f3a91951a0ddeaaf6f9a08bbe02835c7df3678bfaa345e76d8642ac8ff",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Black_Themes.zip",
     "author": "Akos Paha",
     "tags": [
       "Black",
@@ -168,8 +161,7 @@
     "name": "Black themes"
   },
   {
-    "url": "packs/Black_Themes_V2.zip",
-    "hash": "183b6ed6186bffa6ff1d7089db096ded41edf8117d9b6586f550a61b5b70ec4d",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Black_Themes_V2.zip",
     "author": "Akos Paha",
     "tags": [
       "Black",
@@ -189,8 +181,7 @@
     "name": "Dark Black Themes"
   },
   {
-    "url": "packs/Blue_Themes.zip",
-    "hash": "17c87d46922615b684faa7c658aa6ab0944fde30471f9f765a494fde5bb9095e",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Blue_Themes.zip",
     "author": "Akos Paha",
     "tags": [
       "Fixed"
@@ -208,8 +199,7 @@
     "name": "Blue themes"
   },
   {
-    "url": "packs/Bluish_Themes.zip",
-    "hash": "97d57efe96acc693f79a4cde71094903b29a687e51ec5f036346ee870e0b6625",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Bluish_Themes.zip",
     "author": "Akos Paha",
     "tags": [
       "Fixed"
@@ -226,8 +216,7 @@
     "name": "Bluish Themes"
   },
   {
-    "url": "packs/Borderless_Material.zip",
-    "hash": "c948da31d84850b47453365d6342c17ad5d6a01a5c805ffd714526c05d14e0c1",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Borderless_Material.zip",
     "author": "Akos Paha",
     "tags": [
       "Borderless",
@@ -250,8 +239,7 @@
     "name": "Borderless Material Pack"
   },
   {
-    "url": "packs/Colored_keys.zip",
-    "hash": "0eb3beb6ae28d53da72e2f3c7c07b887fbfb6796375e0cc0cbcca95a37f12a0c",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Colored_keys.zip",
     "author": "Akos Paha",
     "tags": [
       "Colorful"
@@ -268,8 +256,7 @@
     "name": "Colored keys"
   },
   {
-    "url": "packs/Colorful.zip",
-    "hash": "0f45424f3c3f37b33f5acab5a39c5595ff986e2d1fae55a17f10caf450cca082",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Colorful.zip",
     "author": "Akos Paha",
     "tags": [
       "Colorful",
@@ -290,8 +277,7 @@
     "name": "Colorful"
   },
   {
-    "url": "packs/Colors_Dark.zip",
-    "hash": "924ccb6f9737d6214a24c254ab03ae8a911b7250faad2cfa828f37b179c7f8da",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Colors_Dark.zip",
     "author": "Akos Paha",
     "tags": [
       "Colorful",
@@ -313,8 +299,7 @@
     "name": "Colors Dark"
   },
   {
-    "url": "packs/Colors_Light.zip",
-    "hash": "3de9bd301192d8301ada2df760a3e52620fda0943f24538225f2d9b982762ae3",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Colors_Light.zip",
     "author": "Akos Paha",
     "tags": [
       "Colorful",
@@ -343,8 +328,7 @@
     "name": "Colors Light"
   },
   {
-    "url": "packs/DarkGrey.zip",
-    "hash": "d887028c6d287d05477c676ef4d2b73695e0549bf05d2e428ddef422d6743a72",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/DarkGrey.zip",
     "author": "Akos Paha",
     "tags": [
       "Fixed",
@@ -362,8 +346,7 @@
     "name": "Dark Grey Pack"
   },
   {
-    "url": "packs/Desaturated_pack.zip",
-    "hash": "26676b7f30a998b625de3cdb0f8731f8f6f044f83fc163325139a317f96d3c44",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Desaturated_pack.zip",
     "author": "Akos Paha",
     "tags": [
       "Border",
@@ -390,8 +373,7 @@
     "name": "Desaturated Pack"
   },
   {
-    "url": "packs/Dracula_Theme_Pack.zip",
-    "hash": "d8e4281120dd161474123638cf67505cec53fd2aa41da05f4076bdf08654e815",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Dracula_Theme_Pack.zip",
     "author": "Akos Paha",
     "tags": [
       "Border",
@@ -420,8 +402,7 @@
     "name": "Dracula Pack"
   },
   {
-    "url": "packs/Exclusive.zip",
-    "hash": "6a9e03985e600cf791a3d4312667a1c50996126b8653fae0784985a7bdcc0c1a",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Exclusive.zip",
     "author": "Akos Paha",
     "tags": [
       "Fixed",
@@ -465,8 +446,7 @@
     "name": "Exclusive Pack"
   },
   {
-    "url": "packs/Exclusive_2.zip",
-    "hash": "34c878986bd4a166874b79b1c8069acafade19a273cd4426d8c62e486bb9a1f1",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Exclusive_2.zip",
     "author": "Akos Paha",
     "tags": [
       "Fixed",
@@ -510,8 +490,7 @@
     "name": "Exclusive Pack 2"
   },
   {
-    "url": "packs/Exclusive_3.zip",
-    "hash": "ba18b73b7f9ce31879aa266615bdfb56eee555879d190a7ce315a8a1d7ab956d",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Exclusive_3.zip",
     "author": "Akos Paha",
     "tags": [
       "Unique",
@@ -546,8 +525,7 @@
     "name": "Exclusive Pack 3"
   },
   {
-    "url": "packs/Exclusive_4.zip",
-    "hash": "b37382e06a7ced839d49750ada198f41f8c673edac30f0e72a1064f8ce103cac",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Exclusive_4.zip",
     "author": "Akos Paha",
     "tags": [
       "Unique",
@@ -572,8 +550,7 @@
     "name": "Exclusive Pack 4"
   },
   {
-    "url": "packs/Exclusive_5.zip",
-    "hash": "2aae236beba28c3eb3b1555a4fe1e2ef0b7221c735beb60f73b7cb637a716d2c",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Exclusive_5.zip",
     "author": "Akos Paha",
     "tags": [
       "Unique",
@@ -597,8 +574,7 @@
     "name": "Exclusive Pack 5"
   },
   {
-    "url": "packs/Feather_Pack.zip",
-    "hash": "37eb302fc7977facff22bb1d0b041b2a9cf5977202c330b83c3182cb630f226b",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Feather_Pack.zip",
     "author": "Akos Paha",
     "tags": [
       "Fixed",
@@ -626,8 +602,7 @@
     "name": "Feather Pack"
   },
   {
-    "url": "packs/Gem_Black.zip",
-    "hash": "f677066ed28be2896011c2dab862a281947718807ca20ce1534b30f3c81e07b1",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Gem_Black.zip",
     "author": "Leese",
     "tags": [],
     "themes": [
@@ -647,8 +622,7 @@
     "name": "Gem Black"
   },
   {
-    "url": "packs/Generated_Colors.zip",
-    "hash": "7512fe6df0b3af169dc56486cde7219c9b3834b9c111cff039f3d466e82ad570",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Generated_Colors.zip",
     "author": "DerTyp7214",
     "tags": [
       "Unique",
@@ -664,8 +638,7 @@
     "name": "Generated Colors Themes"
   },
   {
-    "url": "packs/Grey_Themes.zip",
-    "hash": "d4febfd05193e5e4c2f3604dc6dc99df29624f3eec46a6e2b3abe12d2ec464f2",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Grey_Themes.zip",
     "author": "Akos Paha",
     "tags": [
       "Borderless",
@@ -705,8 +678,7 @@
     "name": "Grey Themes"
   },
   {
-    "url": "packs/Halloween_Pack.zip",
-    "hash": "f5a5c37e5c81adb0b260b1d43f3b1f60ccd501a1340a4304daa9721f26407795",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Halloween_Pack.zip",
     "author": "Akos Paha",
     "tags": [
       "Border"
@@ -722,8 +694,7 @@
     "name": "Halloween Themes"
   },
   {
-    "url": "packs/Logo_Pack.zip",
-    "hash": "f13f6ddb6597bed7a67f0138cd1bf9ff6121a9d0158916e281f0cb73ccebc31e",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Logo_Pack.zip",
     "author": "Akos Paha",
     "tags": [
       "Light",
@@ -746,8 +717,7 @@
     "name": "Logo Pack"
   },
   {
-    "url": "packs/MPack_Dark.zip",
-    "hash": "9d45efe95fdfaaf8d0bc75821bb1ac823b39ef18714531e9856e038ee2c9ea75",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/MPack_Dark.zip",
     "author": "Akos Paha",
     "tags": [
       "Border",
@@ -773,8 +743,7 @@
     "name": "MPack Dark Themes"
   },
   {
-    "url": "packs/MPack_Light.zip",
-    "hash": "77cf618763d245e4bec4862d9a7a44573a944c42e933c229e5528445bea28cad",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/MPack_Light.zip",
     "author": "Akos Paha",
     "tags": [
       "Border",
@@ -799,8 +768,7 @@
     "name": "MPack Light Themes"
   },
   {
-    "url": "packs/Material3_Pack.zip",
-    "hash": "d00dcbeb29e75200dea39ec5ff9d2fa8782b34af268c7f07b86692f3adf1ce01",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Material3_Pack.zip",
     "author": "Akos Paha",
     "tags": [
       "Dark",
@@ -816,8 +784,7 @@
     "name": "Material3 Themes"
   },
   {
-    "url": "packs/Material_grey.zip",
-    "hash": "24fceb6c672ea938cb0af2111c1087e9b53b8f3ab8b3253bf52ffaa32b71300e",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Material_grey.zip",
     "author": "Akos Paha",
     "tags": [
       "Material",
@@ -838,8 +805,7 @@
     "name": "Grey Material Themes"
   },
   {
-    "url": "packs/Material_ocean_lively.zip",
-    "hash": "0e7fd762b1d9511595e310591ae7fdf8171650f4bd57f2cc08a27f0b6701816d",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Material_ocean_lively.zip",
     "author": "Akos Paha",
     "tags": [
       "Dark",
@@ -863,8 +829,7 @@
     "name": "Material Oceans Lively"
   },
   {
-    "url": "packs/Material_ocean_themes.zip",
-    "hash": "8c2cd6b27c6ea4bd929b8b6980b13d4b6378331d8057693e35f144c463175f4d",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Material_ocean_themes.zip",
     "author": "Akos Paha",
     "tags": [
       "Dark",
@@ -887,8 +852,7 @@
     "name": "Material Oceans"
   },
   {
-    "url": "packs/Minecraft_Pack.zip",
-    "hash": "b237d2bf0818392dac8a6da7a541528c862075d8520d88dddfaf7e234057c0ee",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Minecraft_Pack.zip",
     "author": "Akos Paha",
     "tags": [],
     "themes": [
@@ -905,8 +869,7 @@
     "name": "Minecraft Themes"
   },
   {
-    "url": "packs/Mix_pack.zip",
-    "hash": "1e384fc277f6d0cb3052840660b195593974c54ed3dcdb058be05e0046f646c8",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Mix_pack.zip",
     "author": "Akos Paha",
     "tags": [
       "Unique",
@@ -942,8 +905,7 @@
     "name": "Mix Themes"
   },
   {
-    "url": "packs/Mixed_Bordeless_Themes.zip",
-    "hash": "7182c8666f45556759b07cd928806411fec5372e7122932599225e76a033ee01",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Mixed_Bordeless_Themes.zip",
     "author": "Akos Paha",
     "tags": [
       "Borderless"
@@ -973,8 +935,7 @@
     "name": "Mixed Borderless Themes"
   },
   {
-    "url": "packs/Nero_Themes.zip",
-    "hash": "f28bebb0912abdf04bcdb67621c65bc5c0797a640d48b621dbb52719a36248f9",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Nero_Themes.zip",
     "author": "Akos Paha",
     "tags": [
       "Border",
@@ -1001,8 +962,7 @@
     "name": "Nero Themes"
   },
   {
-    "url": "packs/NightLight_Themes.zip",
-    "hash": "7edbd9f8e4771d44eaaa8760a1c511b1cbcdf56c4e53a89f4187235363ba2588",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/NightLight_Themes.zip",
     "author": "Akos Paha",
     "tags": [
       "Fixed",
@@ -1031,8 +991,7 @@
     "name": "NightLight Themes"
   },
   {
-    "url": "packs/Nord_Themes.zip",
-    "hash": "4898362d7f3ce88ea77f98701c028a75c57acc453172e833713b98044abb54e5",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Nord_Themes.zip",
     "author": "Akos Paha",
     "tags": [
       "Dark",
@@ -1051,8 +1010,7 @@
     "name": "Nord themes"
   },
   {
-    "url": "packs/Pacman_Themes.zip",
-    "hash": "d895d166fcb2b5c1ec5c7c41bce4252ebfcae23afb8d822933ca88c54eeb1dfe",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Pacman_Themes.zip",
     "author": "CrazyTrucker",
     "tags": [
       "Dark",
@@ -1075,8 +1033,7 @@
     "name": "Pacman Themes"
   },
   {
-    "url": "packs/PitchBlack.zip",
-    "hash": "63fbabaf3e640b73b03d0dabc61dc95c24d5ded6fd5233f981a262c9cf5bd6e3",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/PitchBlack.zip",
     "author": "Akos Paha",
     "tags": [
       "Black",
@@ -1095,8 +1052,7 @@
     "name": "PitchBlack Pack"
   },
   {
-    "url": "packs/Redesigns_Modified.zip",
-    "hash": "a66b6508af936e375f5befa2f4dac6b6ebe5ff26769b61e4d15805c717843d78",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Redesigns_Modified.zip",
     "author": "Akos Paha",
     "tags": [
       "Redesign",
@@ -1119,8 +1075,7 @@
     "name": "Redesign Modified Pack"
   },
   {
-    "url": "packs/Redesigns_pack.zip",
-    "hash": "1e8f9386c16d12f36636ec69e44d1a755ca8e792f6dbec10ebebf8eb4ee2a5bd",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Redesigns_pack.zip",
     "author": "Akos Paha",
     "tags": [
       "Redesign",
@@ -1139,8 +1094,7 @@
     "name": "Redesign Pack"
   },
   {
-    "url": "packs/Rounded_Pack.zip",
-    "hash": "ead47dc5d58f787a2e240c0991896046469632f7cb795e3b9e937d2b85c067ce",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Rounded_Pack.zip",
     "author": "Akos Paha",
     "tags": [
       "Border",
@@ -1160,8 +1114,7 @@
     "name": "Rounded Pack"
   },
   {
-    "url": "packs/Snowys.zip",
-    "hash": "cc0e2755a3759564f3818bfc6851cdc6e49fbc84f96c94916095f30b493b9353",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Snowys.zip",
     "author": "Akos Paha",
     "tags": [
       "Fixed"
@@ -1179,8 +1132,7 @@
     "name": "Snowy Themes"
   },
   {
-    "url": "packs/Style_material.zip",
-    "hash": "d85f9c7daf3bf9342f513cb2b4e145167ce4e9151af942b770a2b4474eafe533",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Style_material.zip",
     "author": "Akos Paha",
     "tags": [
       "Material",
@@ -1200,8 +1152,7 @@
     "name": "Style material"
   },
   {
-    "url": "packs/Swift_material.zip",
-    "hash": "df129b0d2b67a2438fdbe7abadad0fed5d026f083c1b25f01643c57cd8473aa6",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Swift_material.zip",
     "author": "Akos Paha",
     "tags": [
       "Material",
@@ -1223,8 +1174,7 @@
     "name": "Swift material"
   },
   {
-    "url": "packs/White_themes.zip",
-    "hash": "aea11de77716a3bcedf2e1b54d079554eb30c847d24409750728f751500bae55",
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/White_themes.zip",
     "author": "Akos Paha",
     "tags": [
       "White",
