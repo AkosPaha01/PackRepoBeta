@@ -181,24 +181,6 @@
     "name": "Dark Black Themes"
   },
   {
-    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Blue_Themes.zip",
-    "author": "Akos Paha",
-    "tags": [
-      "Fixed"
-    ],
-    "themes": [
-      "Blue_teal",
-      "Blue_red",
-      "Blue_orange",
-      "Blue_green",
-      "Blue_blue",
-      "blue_akash"
-    ],
-    "size": 659452,
-    "date": 1682189315000,
-    "name": "Blue themes"
-  },
-  {
     "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Bluish_Themes.zip",
     "author": "Akos Paha",
     "tags": [
@@ -256,27 +238,6 @@
     "name": "Colored keys"
   },
   {
-    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Colorful_pack.zip",
-    "author": "Akos Paha",
-    "tags": [
-      "Colorful",
-      "Fixed"
-    ],
-    "themes": [
-      "Colorfuls_red",
-      "Colorfuls_yellow",
-      "Colorfuls_blue",
-      "Colorfuls_green",
-      "Colorfuls_light_blue",
-      "Colorfuls_orange",
-      "Colorfuls_pink",
-      "Colorfuls_purple"
-    ],
-    "size": 947440,
-    "date": 1701959653000,
-    "name": "Colorful"
-  },
-  {
     "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Colors_Dark.zip",
     "author": "Akos Paha",
     "tags": [
@@ -326,24 +287,6 @@
     "size": 782651,
     "date": 1682189315000,
     "name": "Colors Light"
-  },
-  {
-    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/DarkGrey.zip",
-    "author": "Akos Paha",
-    "tags": [
-      "Fixed",
-      "Dark"
-    ],
-    "themes": [
-      "DarkGrey_Red",
-      "DarkGrey_Purple",
-      "DarkGrey_Orange",
-      "DarkGrey_Green",
-      "DarkGrey_Blue"
-    ],
-    "size": 260144,
-    "date": 1682189315000,
-    "name": "Dark Grey Pack"
   },
   {
     "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Desaturated_pack.zip",
@@ -638,62 +581,6 @@
     "name": "Generated Colors Themes"
   },
   {
-    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Grey_Themes.zip",
-    "author": "Akos Paha",
-    "tags": [
-      "Borderless",
-      "Fixed"
-    ],
-    "themes": [
-      "Grey_RKBD_colored_spacebar",
-      "Grey_RKBD",
-      "Grey_red_no_border",
-      "Grey_red_colored_spacebar",
-      "Grey_red",
-      "Grey_PAkos_no_border",
-      "Grey_PAkos_colored_spacebar",
-      "Grey_PAkos",
-      "Grey_light_green_no_border",
-      "Grey_light_green_colored_spacebar",
-      "Grey_light_green",
-      "Grey_light_blue_no_border",
-      "Grey_light_blue_colored_spacebar",
-      "Grey_light_blue",
-      "Grey_green_no_border",
-      "Grey_green_colored_spacebar",
-      "Grey_green",
-      "Grey_brown_no_border",
-      "Grey_brown_colored_spacebar",
-      "Grey_brown",
-      "Grey_blue_no_border",
-      "Grey_blue_colored_spacebar",
-      "Grey_blue",
-      "Grey_Beerus_no_border",
-      "Grey_Beerus_colored_spacebar",
-      "Grey_Beerus",
-      "Grey_RKBD_no_border"
-    ],
-    "size": 4175695,
-    "date": 1682189315000,
-    "name": "Grey Themes"
-  },
-  {
-    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Halloween_Pack.zip",
-    "author": "Akos Paha",
-    "tags": [
-      "Border"
-    ],
-    "themes": [
-      "Halloween_Birthday",
-      "Halloween_Pumpkin",
-      "Trick_Or_Treat",
-      "Witch_Which_Witch"
-    ],
-    "size": 242170,
-    "date": 1682189315000,
-    "name": "Halloween Themes"
-  },
-  {
     "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Logo_Pack.zip",
     "author": "Akos Paha",
     "tags": [
@@ -738,8 +625,8 @@
       "Dark_Hawkes_Blue",
       "Dark_Onahau"
     ],
-    "size": 846716,
-    "date": 1682189315000,
+    "size": 861966,
+    "date": 1714593589000,
     "name": "MPack Dark Themes"
   },
   {
@@ -763,8 +650,8 @@
       "Light_Cupid_Pink",
       "Light_Wild_Willow"
     ],
-    "size": 786685,
-    "date": 1682189315000,
+    "size": 799670,
+    "date": 1714593589000,
     "name": "MPack Light Themes"
   },
   {
@@ -903,36 +790,6 @@
     "size": 1358934,
     "date": 1694199689000,
     "name": "Mix Themes"
-  },
-  {
-    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Mixed_Bordeless_Themes.zip",
-    "author": "Akos Paha",
-    "tags": [
-      "Borderless"
-    ],
-    "themes": [
-      "LimeWhite",
-      "OrangeWhite",
-      "PinkWhite",
-      "PurpleWhite",
-      "RedWhite",
-      "Black_realpink_borderless",
-      "Blackblue_borderless",
-      "Blackgreen_borderless",
-      "Blackorange_borderless",
-      "Blackpink_borderless",
-      "Blackpurple_borderless",
-      "Blackred_borderless",
-      "BlackWhite",
-      "Blackyellow_borderless",
-      "BlueWhite",
-      "DarkBlueWhite",
-      "GreenWhite",
-      "LightBlueWhite"
-    ],
-    "size": 2264577,
-    "date": 1682189315000,
-    "name": "Mixed Borderless Themes"
   },
   {
     "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Nero_Themes.zip",
