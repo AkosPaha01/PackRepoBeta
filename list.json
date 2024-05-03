@@ -612,7 +612,6 @@
       "Fixed"
     ],
     "themes": [
-      "Dark_Aquamarine",
       "Dark_Cosmos_Orange",
       "Dark_Electric_Blue",
       "Dark_Gainsboro",
@@ -623,10 +622,11 @@
       "Dark_Selago",
       "Dark_Soft_Peach",
       "Dark_Sulu_Green",
-      "Dark_Texas_Yellow"
+      "Dark_Texas_Yellow",
+      "Dark_Aquamarine"
     ],
-    "size": 861990,
-    "date": 1714660388000,
+    "size": 862061,
+    "date": 1714728179000,
     "name": "MPack Dark Themes"
   },
   {
@@ -638,20 +638,20 @@
       "Fixed"
     ],
     "themes": [
-      "Light_Medium_Turquoise",
-      "Light_Pale_Cornflower_Blue",
-      "Light_Rajah_Orange",
-      "Light_Vivid_Yellow",
-      "Light_Sundown",
-      "Light_Wild_Willow",
-      "Light_Sky_Blue",
       "Light_Cupid_Pink",
       "Light_Lavender",
       "Light_Mauve_Purple",
-      "Light_Medium_Aquamarine"
+      "Light_Medium_Aquamarine",
+      "Light_Medium_Turquoise",
+      "Light_Pale_Cornflower_Blue",
+      "Light_Rajah_Orange",
+      "Light_Sky_Blue",
+      "Light_Vivid_Yellow",
+      "Light_Wild_Willow",
+      "Light_Sundown"
     ],
-    "size": 799804,
-    "date": 1714660388000,
+    "size": 799950,
+    "date": 1714728179000,
     "name": "MPack Light Themes"
   },
   {
