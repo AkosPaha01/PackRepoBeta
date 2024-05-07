@@ -978,8 +978,11 @@
   },
   {
     "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Swift_material.zip",
-    "author": "PahaAkos",
-    "tags": [],
+    "author": "Akos Paha",
+    "tags": [
+      "Material",
+      "Fixed"
+    ],
     "themes": [
       "Swift_green_material",
       "Swift_light_blue_material",
@@ -991,9 +994,9 @@
       "Swift_yellow_material",
       "Swift_blue_material"
     ],
-    "size": 283365,
-    "date": 1715091981000,
-    "name": "Swift material"
+    "size": 312529,
+    "date": 1715093395000,
+    "name": "Swift Material"
   },
   {
     "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/White_themes.zip",
