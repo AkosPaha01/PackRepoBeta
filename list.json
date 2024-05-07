@@ -668,19 +668,19 @@
       "Fixed"
     ],
     "themes": [
+      "Material_ocean_lively_pink",
+      "Material_ocean_lively_purple",
+      "Material_ocean_lively_red",
+      "Material_ocean_lively_yellow",
       "Material_ocean_lively_blue",
       "Material_ocean_lively_dark_blue",
       "Material_ocean_lively_green",
       "Material_ocean_lively_light_blue",
       "Material_ocean_lively_lime",
-      "Material_ocean_lively_orange",
-      "Material_ocean_lively_pink",
-      "Material_ocean_lively_purple",
-      "Material_ocean_lively_red",
-      "Material_ocean_lively_yellow"
+      "Material_ocean_lively_orange"
     ],
-    "size": 2309852,
-    "date": 1682189315000,
+    "size": 2322228,
+    "date": 1715113900000,
     "name": "Material Oceans Lively"
   },
   {
@@ -964,16 +964,18 @@
       "Fixed"
     ],
     "themes": [
-      "Style_material_orange",
-      "Style_material_light_blue",
-      "Style_material_green",
-      "Style_material_blue",
-      "Style_material_yellow",
-      "Style_material_red",
-      "Style_material_pink"
+      "Style_blue_material",
+      "Style_green_material",
+      "Style_light_blue_material",
+      "Style_lime_material",
+      "Style_orange_material",
+      "Style_pink_material",
+      "Style_purple_material",
+      "Style_red_material",
+      "Style_yellow_material"
     ],
-    "size": 460725,
-    "date": 1682189315000,
+    "size": 481032,
+    "date": 1715113900000,
     "name": "Style material"
   },
   {
