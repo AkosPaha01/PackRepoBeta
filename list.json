@@ -137,47 +137,15 @@
       "Fixed"
     ],
     "themes": [
-      "Black_realpink",
-      "Black_realpink_no_border",
-      "Black_realpink_rounded",
-      "Black_RKBD_rounded",
-      "Blackblue",
-      "Blackblue_no_border",
-      "Blackgreen",
-      "Blackgreen_no_border",
-      "Blackorange",
-      "Blackorange_no_border",
-      "Blackpink",
-      "Blackpink_no_border",
-      "Blackpurple",
-      "Blackpurple_no_border",
-      "Blackred",
-      "Blackred_no_border",
-      "Blackyellow",
-      "Blackyellow_no_border"
+      "Black_Red",
+      "Black_Purple",
+      "Black_Pink",
+      "Black_Orange",
+      "Black_Green",
+      "Black_Blue"
     ],
-    "size": 1002653,
-    "date": 1682189315000,
-    "name": "Black themes"
-  },
-  {
-    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Black_Themes_V2.zip",
-    "author": "Akos Paha",
-    "tags": [
-      "Black",
-      "Border",
-      "Fixed"
-    ],
-    "themes": [
-      "Full_Black_purple",
-      "Full_Black_red",
-      "Full_Black_blue",
-      "Full_Black_green",
-      "Full_Black_orange",
-      "Full_Black_pink"
-    ],
-    "size": 475671,
-    "date": 1682189315000,
+    "size": 208958,
+    "date": 1715091981000,
     "name": "Dark Black Themes"
   },
   {
@@ -612,21 +580,21 @@
       "Fixed"
     ],
     "themes": [
-      "Dark_Cosmos_Orange",
-      "Dark_Electric_Blue",
-      "Dark_Gainsboro",
-      "Dark_Hawkes_Blue",
-      "Dark_Onahau",
-      "Dark_Pale_Pink",
-      "Dark_Patterns_Blue",
-      "Dark_Selago",
-      "Dark_Soft_Peach",
       "Dark_Sulu_Green",
-      "Dark_Texas_Yellow",
-      "Dark_Aquamarine"
+      "Dark_Soft_Peach",
+      "Dark_Selago",
+      "Dark_Patterns_Blue",
+      "Dark_Pale_Pink",
+      "Dark_Onahau",
+      "Dark_Hawkes_Blue",
+      "Dark_Gainsboro",
+      "Dark_Electric_Blue",
+      "Dark_Cosmos_Orange",
+      "Dark_Aquamarine",
+      "Dark_Texas_Yellow"
     ],
-    "size": 862092,
-    "date": 1714737446000,
+    "size": 862592,
+    "date": 1715091981000,
     "name": "MPack Dark Themes"
   },
   {
@@ -638,20 +606,20 @@
       "Fixed"
     ],
     "themes": [
-      "Light_Cupid_Pink",
-      "Light_Lavender",
-      "Light_Mauve_Purple",
-      "Light_Medium_Aquamarine",
-      "Light_Medium_Turquoise",
-      "Light_Pale_Cornflower_Blue",
-      "Light_Rajah_Orange",
+      "Light_Sundown",
       "Light_Sky_Blue",
-      "Light_Vivid_Yellow",
+      "Light_Rajah_Orange",
+      "Light_Pale_Cornflower_Blue",
+      "Light_Medium_Turquoise",
+      "Light_Medium_Aquamarine",
+      "Light_Mauve_Purple",
+      "Light_Lavender",
+      "Light_Cupid_Pink",
       "Light_Wild_Willow",
-      "Light_Sundown"
+      "Light_Vivid_Yellow"
     ],
-    "size": 799950,
-    "date": 1714728179000,
+    "size": 800413,
+    "date": 1715091981000,
     "name": "MPack Light Themes"
   },
   {
@@ -1010,24 +978,21 @@
   },
   {
     "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Swift_material.zip",
-    "author": "Akos Paha",
-    "tags": [
-      "Material",
-      "Fixed"
-    ],
+    "author": "PahaAkos",
+    "tags": [],
     "themes": [
-      "Swift_lime_material",
-      "Swift_light_blue_material",
       "Swift_green_material",
-      "Swift_blue_material",
-      "Swift_yellow_material",
-      "Swift_red_material",
-      "Swift_purple_material",
+      "Swift_light_blue_material",
+      "Swift_lime_material",
+      "Swift_orange_material",
       "Swift_pink_material",
-      "Swift_orange_material"
+      "Swift_purple_material",
+      "Swift_red_material",
+      "Swift_yellow_material",
+      "Swift_blue_material"
     ],
-    "size": 506052,
-    "date": 1682189315000,
+    "size": 283365,
+    "date": 1715091981000,
     "name": "Swift material"
   },
   {
@@ -1039,16 +1004,16 @@
       "Fixed"
     ],
     "themes": [
-      "White_blue",
-      "White_yellow",
-      "White_red",
-      "White_purple",
-      "White_pink",
-      "White_orange",
-      "White_green"
+      "White_Orange",
+      "White_Red",
+      "White_Blue",
+      "White_Green",
+      "White_Pink",
+      "White_Purple",
+      "White_Yellow"
     ],
-    "size": 739216,
-    "date": 1682189315000,
+    "size": 748139,
+    "date": 1715091981000,
     "name": "White Themes"
   }
 ]
