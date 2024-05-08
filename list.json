@@ -201,8 +201,8 @@
       "Red_swift_button",
       "Yellow_swift_button"
     ],
-    "size": 285448,
-    "date": 1682189315000,
+    "size": 307954,
+    "date": 1715198554000,
     "name": "Colored keys"
   },
   {
@@ -660,6 +660,29 @@
     "name": "Grey Material Themes"
   },
   {
+    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Material_ocean.zip",
+    "author": "Akos Paha",
+    "tags": [
+      "Dark",
+      "Material",
+      "Fixed"
+    ],
+    "themes": [
+      "Material_ocean_light_blue",
+      "Material_ocean_light_green",
+      "Material_ocean_orange",
+      "Material_ocean_pink",
+      "Material_ocean_purple",
+      "Material_ocean_red",
+      "Material_ocean_yellow",
+      "Material_ocean_green",
+      "Material_ocean_grey"
+    ],
+    "size": 828276,
+    "date": 1715198554000,
+    "name": "Material Oceans"
+  },
+  {
     "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Material_ocean_lively.zip",
     "author": "Akos Paha",
     "tags": [
@@ -682,29 +705,6 @@
     "size": 2322228,
     "date": 1715113900000,
     "name": "Material Oceans Lively"
-  },
-  {
-    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Material_ocean_themes.zip",
-    "author": "Akos Paha",
-    "tags": [
-      "Dark",
-      "Material",
-      "Fixed"
-    ],
-    "themes": [
-      "Material_ocean_green",
-      "Material_ocean_grey",
-      "Material_ocean_light_blue",
-      "Material_ocean_light_green",
-      "Material_ocean_orange",
-      "Material_ocean_pink",
-      "Material_ocean_purple",
-      "Material_ocean_red",
-      "Material_ocean_yellow"
-    ],
-    "size": 817112,
-    "date": 1682189315000,
-    "name": "Material Oceans"
   },
   {
     "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Minecraft_Pack.zip",
@@ -823,15 +823,15 @@
       "Fixed"
     ],
     "themes": [
-      "Nord_Grey",
-      "Nord_Orange",
       "Nord_Purple",
       "Nord_Red",
+      "Nord_Green",
+      "Nord_Grey",
       "Nord_Yellow",
-      "Nord_Green"
+      "Nord_Orange"
     ],
-    "size": 300983,
-    "date": 1682189315000,
+    "size": 308490,
+    "date": 1715198554000,
     "name": "Nord themes"
   },
   {
@@ -856,25 +856,6 @@
     "size": 958366,
     "date": 1682189315000,
     "name": "Pacman Themes"
-  },
-  {
-    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/PitchBlack.zip",
-    "author": "Akos Paha",
-    "tags": [
-      "Black",
-      "Border",
-      "Fixed"
-    ],
-    "themes": [
-      "PitchBlack_Blue",
-      "PitchBlack_Orange",
-      "PitchBlack_Pink",
-      "PitchBlack_Purple",
-      "PitchBlack_Red"
-    ],
-    "size": 295290,
-    "date": 1682189315000,
-    "name": "PitchBlack Pack"
   },
   {
     "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Redesigns_Modified.zip",
