@@ -1,89 +1,5 @@
 [
   {
-    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Android_pack.zip",
-    "author": "Leese",
-    "tags": [],
-    "themes": [
-      "Android_Dark_Blue",
-      "Android_Dark_Cinnamon",
-      "Android_Dark_Green",
-      "Android_Dark_Ocean",
-      "Android_Dark_Orchid",
-      "Android_Dark_Purple",
-      "Android_Dark_Space",
-      "Android_Light_Blue",
-      "Android_Light_Cinnamon",
-      "Android_Light_Green",
-      "Android_Light_Ocean",
-      "Android_Light_Orchid",
-      "Android_Light_Purple",
-      "Android_Light_Space"
-    ],
-    "size": 968540,
-    "date": 1682189315000,
-    "name": "Android Pack"
-  },
-  {
-    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Animal Black.zip",
-    "author": "Leese",
-    "tags": [],
-    "themes": [
-      "Foxy_Black",
-      "Lizard_Black",
-      "Red_Panda_Black",
-      "Snake_Black",
-      "Weasel_Black",
-      "Bear_Black",
-      "Bee_Black",
-      "Blue_Whale_Black",
-      "Butterfly_Black",
-      "Flamingo_Black"
-    ],
-    "size": 592894,
-    "date": 1682189315000,
-    "name": "Animal Black"
-  },
-  {
-    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Animal Gray.zip",
-    "author": "Leese",
-    "tags": [],
-    "themes": [
-      "Bear_Gray",
-      "Bee_Gray",
-      "Blue_Whale_Gray",
-      "Butterfly_Gray",
-      "Flamingo_Gray",
-      "Foxy_Gray",
-      "Lizard_Gray",
-      "Red_Panda_Gray",
-      "Snake_Gray",
-      "Weasel_Gray"
-    ],
-    "size": 508180,
-    "date": 1682189315000,
-    "name": "Animal Gray"
-  },
-  {
-    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Animal White.zip",
-    "author": "Leese",
-    "tags": [],
-    "themes": [
-      "Blue_Whale_White",
-      "Butterfly_White",
-      "Flamingo_White",
-      "Foxy_White",
-      "Lizard_White",
-      "Red_Panda_White",
-      "Snake_White",
-      "Weasel_White",
-      "Bear_White",
-      "Bee_White"
-    ],
-    "size": 644347,
-    "date": 1682189315000,
-    "name": "Animal White"
-  },
-  {
     "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Arctic_Themes.zip",
     "author": "Akos Paha",
     "tags": [
@@ -496,42 +412,6 @@
     "name": "Feather Pack"
   },
   {
-    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Gem_Black.zip",
-    "author": "Leese",
-    "tags": [],
-    "themes": [
-      "Andalusite_Black",
-      "Beryll_Black",
-      "Chrysolite_Black",
-      "Citrine_Black",
-      "Malachite_Black",
-      "Ruby_Black",
-      "Sapphire_Black",
-      "Spinel_Black",
-      "Amber_Black",
-      "Amethyst_Black"
-    ],
-    "size": 1713553,
-    "date": 1682189315000,
-    "name": "Gem Black"
-  },
-  {
-    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Generated_Colors.zip",
-    "author": "DerTyp7214",
-    "tags": [
-      "Unique",
-      "Border"
-    ],
-    "themes": [
-      "Color_Theme_Dark_61E991",
-      "Color_Theme_Light_61E991",
-      "Color_Theme_Pink_61E991"
-    ],
-    "size": 194826,
-    "date": 1682189315000,
-    "name": "Generated Colors Themes"
-  },
-  {
     "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Logo_Pack.zip",
     "author": "Akos Paha",
     "tags": [
@@ -780,29 +660,6 @@
     "size": 308490,
     "date": 1715198554000,
     "name": "Nord themes"
-  },
-  {
-    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Pacman_Themes.zip",
-    "author": "CrazyTrucker",
-    "tags": [
-      "Dark",
-      "Bordered",
-      "Colorful",
-      "Fixed"
-    ],
-    "themes": [
-      "Pacman3d_OnePlus_Blue_mod",
-      "Pacman3d_OnePlus_Yellow_mod",
-      "Pacman_OnePlus_Blue_mod",
-      "Pacman_OnePlus_Yellow_mod",
-      "PacmanDark_OnePlus_Blue_mod",
-      "PacmanDark_OnePlus_Yellow_mod",
-      "PacmanDark_Red-2_",
-      "PacmanDark_Red_"
-    ],
-    "size": 958366,
-    "date": 1682189315000,
-    "name": "Pacman Themes"
   },
   {
     "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Redesigns_Modified.zip",
