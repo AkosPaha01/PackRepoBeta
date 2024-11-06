@@ -384,57 +384,6 @@
     "name": "Exclusive Pack 5"
   },
   {
-    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Feather_Pack.zip",
-    "author": "Akos Paha",
-    "tags": [
-      "Fixed",
-      "Borderless"
-    ],
-    "themes": [
-      "Feather_Black_Blue",
-      "Feather_Black_Green",
-      "Feather_Black_Orange",
-      "Feather_Black_Purple",
-      "Feather_Black_Red",
-      "Feather_Dark_Blue",
-      "Feather_Dark_Green",
-      "Feather_Dark_Orange",
-      "Feather_Dark_Purple",
-      "Feather_Dark_Red",
-      "Feather_White_Blue",
-      "Feather_White_Green",
-      "Feather_White_Orange",
-      "Feather_White_Purple",
-      "Feather_White_Red"
-    ],
-    "size": 1089480,
-    "date": 1682189315000,
-    "name": "Feather Pack"
-  },
-  {
-    "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/Logo_Pack.zip",
-    "author": "Akos Paha",
-    "tags": [
-      "Light",
-      "Dark",
-      "Rboard Logo"
-    ],
-    "themes": [
-      "Rboard_App_Debug_Dark_Theme",
-      "Rboard_App_Debug_Light_Theme",
-      "Rboard_App_Release_Dark_Theme",
-      "Rboard_App_Release_Light_Theme",
-      "Rboard_App_Release_Theme",
-      "Rboard_Channel_Dark_Theme",
-      "Rboard_Channel_Theme",
-      "Rboard_Group_Dark_Theme",
-      "Rboard_Group_Theme"
-    ],
-    "size": 1301901,
-    "date": 1682189315000,
-    "name": "Logo Pack"
-  },
-  {
     "url": "https://github.com/AkosPaha01/PackRepoBeta/raw/main/packs/MPack_Dark.zip",
     "author": "Akos Paha",
     "tags": [
