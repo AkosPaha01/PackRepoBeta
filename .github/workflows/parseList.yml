@@ -6,7 +6,7 @@ on:
     paths:
       - '.github/**'
       - 'packs/**'
-      - 'index.js'
+      - 'index.cjs'
   workflow_dispatch:
 
 jobs:
@@ -28,7 +28,7 @@ jobs:
         run: npm install
 
       - name: Parse list
-        run: node index.js packs
+        run: node index.cjs packs
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
