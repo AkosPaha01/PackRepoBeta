@@ -1,7 +1,7 @@
 {
   "name": "PackRepoBeta",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.cjs",
   "type": "module",
   "repository": "git@github.com:AkosPaha01/PackRepoBeta.git",
   "author": "Akos Paha <paha.akos@gmail.com>",
