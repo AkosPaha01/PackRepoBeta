@@ -1,13 +1,13 @@
 // noinspection JSCheckFunctionSignatures,JSUnresolvedFunction
 
-const AdmZip = import('adm-zip')
-const path = import('path')
-const fs = import('fs')
+const AdmZip = require('adm-zip')
+const path = require('path')
+const fs = require('fs')
 
-const gitRemoteOriginUrl = import('remote-origin-url')
-const parseGithubUrl = import('parse-github-url')
-const gitBranch = import('git-branch')
-const gitLog = import('gitlog').default
+const gitRemoteOriginUrl = require('remote-origin-url')
+const parseGithubUrl = require('parse-github-url')
+const gitBranch = require('git-branch')
+const gitLog = require('gitlog').default
 
 const packPath = process.argv[2]
 
