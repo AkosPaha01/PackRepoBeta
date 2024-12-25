@@ -12,5 +12,8 @@
     "gitlog": "^5.1.0",
     "parse-github-url": "^1.0.3",
     "remote-origin-url": "^2.0.0"
+  },
+"exports": {
+    "require": "./index.cjs"
   }
 }
