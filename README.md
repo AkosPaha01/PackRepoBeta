@@ -1,4 +1,4 @@
-# PackRepoBeta
+# PackRepoBeta [EOL]
 
 just put your theme-packs in the `packs` folder
 
